@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Artificial Intelligence Sample (1)"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d2719430-4f03-45dd-9909-742ab662d33d"
+  }
+}
